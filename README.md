@@ -1,5 +1,10 @@
 # Mooshimeter-PythonAPI
-A python API relying on the BLED112 to talk to the Mooshimeter
+A python API relying on bluepy ( https://github.com/IanHarvey/bluepy ) to talk to the Mooshimeter
+
+
+# DISCLAIMER
+
+WiP
 
 Example.py:
 This script is meant to demonstrate use of the Mooshimeter and BGWrapper classes.
